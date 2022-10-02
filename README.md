@@ -36,11 +36,26 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.Elchedli.me"><img src="https://img.shields.io/badge/-Elchedli.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:Chedli1.abdelli@gmail.com"><img src="https://img.shields.io/badge/-Chedli1.abdelli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/Chedli.abdelli"><img src="https://img.shields.io/badge/-@Chedli.abdelli_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Chedliaab"><img src="https://img.shields.io/badge/-@Chedliaab-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.chedli.me"><img src="https://img.shields.io/badge/-Elchedli.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:Chedli.elloumi@esprit.com"><img src="https://img.shields.io/badge/-Chedli.elloumi@esprit.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/Chedlielloumi"><img src="https://img.shields.io/badge/-@Chedli.elloumi_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005282886623"><img src="https://img.shields.io/badge/-@Chedliaab-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Elchedli/count.svg" /></p>
+
+<p align="center">
+  <a href="https://github.com/Elchedli">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elchedli&count_private=true&hide_border=true&show_icons=true" alt="Elchedli's github stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Elchedli">
+<p align="center">
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elchedli" alt="Elchedli" /></a> </p>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=Elchedli&label=PROFILE+VIEWS)
