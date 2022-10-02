@@ -25,14 +25,13 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- 
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=Nodejs&logoColor=563D7C)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=Nodejs&logoColor=563D7C)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
 ![electron](https://img.shields.io/badge/-electron-05122A?style=flat&logo=electron&logoColor=563D7C)&nbsp;
- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
  ### 🤝🏻 &nbsp;Connect with Me
 
@@ -45,10 +44,3 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Elchedli/count.svg" /></p>
-  
-  
-  
-  
-  
-  
-  
