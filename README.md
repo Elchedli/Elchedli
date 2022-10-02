@@ -57,5 +57,3 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elchedli" alt="Elchedli" /></a> </p>
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=Elchedli&label=PROFILE+VIEWS)
