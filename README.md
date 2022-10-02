@@ -39,7 +39,7 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 <a href="https://www.chedli.me"><img src="https://img.shields.io/badge/-Elchedli.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:Chedli.elloumi@esprit.com"><img src="https://img.shields.io/badge/-Chedli.elloumi@esprit.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/Chedlielloumi"><img src="https://img.shields.io/badge/-@Chedli.elloumi_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005282886623"><img src="https://img.shields.io/badge/-@Chedliaab-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005282886623"><img src="https://img.shields.io/badge/-@ChedliElloumi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <br/><br/>
