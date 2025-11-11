@@ -27,11 +27,9 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=Nodejs&logoColor=563D7C)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
- 
- ### 🌱 &nbsp;I’m currently learning
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
-![electron](https://img.shields.io/badge/-electron-05122A?style=flat&logo=electron&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
+
 
  ### 🤝🏻 &nbsp;Connect with Me
 
