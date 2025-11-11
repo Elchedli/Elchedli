@@ -29,13 +29,6 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
 
-
- ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.chedli.me"><img src="https://img.shields.io/badge/-Elchedli.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-</p>
-
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Elchedli/count.svg" /></p>
 
